@@ -891,7 +891,8 @@
 - [Geocaching](https://github.com/FoxFil/awesome-geocaching#readme) - Outdoor treasure-hunting activity that uses GPS-enabled devices.
 - [Regex](https://github.com/slevithan/awesome-regex#readme) - Specialized language for matching patterns in text.
 - [Event-Driven Architecture](https://github.com/lutzh/awesome-event-driven-architecture#readme) - A software architecture approach where services collaborate by publishing and subscribing to events.
-
+- [Awesome Ghostty](https://github.com/fearlessgeekmedia/Awesome-Ghostty) - A list of tools, shaders, and themes for the Ghostty terminal emulator.
+  
 ## Related
 
 - [All Awesome Lists](https://github.com/topics/awesome) - All the Awesome lists on GitHub.
